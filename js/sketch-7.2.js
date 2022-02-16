@@ -1,4 +1,5 @@
 const nums = [100, 25, 46, 72];
+
 function setup() {
   createCanvas(600, 400);
 }
